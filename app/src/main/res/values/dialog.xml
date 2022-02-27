@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialogTitle">Confirm Purchase</string>
+    <string name="positiveButton">Accept</string>
+    <string name="negativeButton">Modify</string>
+    <string name="neutralButton">CANCEL</string>
+</resources>
